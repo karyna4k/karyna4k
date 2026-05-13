@@ -5,6 +5,7 @@ My name is Karyna.
 I'm a frontend dev from Belarus ⚪🔴⚪
 
 I lived in Georgia for 4 years 🇬🇪
+
 Now I'm based in Poland 🇵🇱 
 
 ## Connect with me
